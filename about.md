@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-C++
+С++
 Матан.
 Всякая чушь.
 
@@ -12,6 +12,6 @@ C++
 
 Тлен.
 
-### Не забывай про спам-фильтр.
+### Спам фильтр никто не отменял
 
 [cloudmindone@gmail.com](mailto:cloudmindone@gmail.com)
