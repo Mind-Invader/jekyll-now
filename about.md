@@ -1,17 +1,17 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /О чем речь?/
 ---
 
 C++
 Матан.
 Всякая чушь.
 
-### More Information
+### Больше букв обо мне:
 
 Тлен.
 
-### Contact me
+### Не забывай про спам-фильтр.
 
 [cloudmindone@gmail.com](mailto:cloudmindone@gmail.com)
