@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /О чем речь?/
+permalink: /about/
 ---
 
 C++
