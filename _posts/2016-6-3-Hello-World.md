@@ -1,4 +1,6 @@
 ---
 title: Hello World!
-layout: smth here, lol
+layout: post
 ---
+
+Првет, мир. Проебал вуз и поставил халявный блог на гитхаб.
