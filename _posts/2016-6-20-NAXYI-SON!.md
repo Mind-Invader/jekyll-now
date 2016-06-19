@@ -1,5 +1,5 @@
 ---
-title: NAXYI SON!
+title: NAXYI SON
 layout: post
 ---
 
