@@ -1,5 +1,5 @@
 ---
-title: Нахуй сон!
+title: NAXYI SON!
 layout: post
 ---
 
